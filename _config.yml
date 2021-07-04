@@ -35,3 +35,5 @@ plugins:
 
 exclude:
   - old/
+
+google_analytics: G-ZTM5P9SES8
