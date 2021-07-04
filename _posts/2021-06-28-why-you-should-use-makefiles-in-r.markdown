@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Build automation in R: Why you should use Makefiles"
-date:   2021-06-01 00:00:00 +0100
-categories: devops
+date:   2021-06-28 00:00:00 +0100
+categories: R
 ---
 
 Build automation in R is pretty much taken care of by the `devtools` package. We can very quickly build packages and run tests against them by running a few commands in the console. If you're more mature than that you'll probably run the same steps running in a CI pipeline somewhere (Travis, Azure Pipelines, etc) like so:
