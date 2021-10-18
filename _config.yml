@@ -28,7 +28,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: theandypatterson
 github_username:  officialpatterson
 
-
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
 exclude:
   - old/
