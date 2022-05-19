@@ -8,7 +8,7 @@ permalink: /Resume/
 #### Technology Associate | Morgan Stanley | October 2021 - present
 * Single product team delivering Morgan Stanley's real-time risk monitoring capabilities.
 * Integrated Prometheus, Grafana, and PagerDuty to improve our observability and achieve our SLA targets
-* Developed applications for the consumption of millions of different trading events per minute.
+* Developed Java applications for the consumption of millions of different trading events per minute.
 * Built-out CQRS-style application using GraphQL and Kafka for exposing Risk calculation results.
 * Developed new features on existing Angular based web application
 * Deep Exposure to trade concepts within a risk technology context.
