@@ -7,9 +7,10 @@ permalink: /Resume/
 
 #### Technology Associate | Morgan Stanley | October 2021 - present
 * Single product team delivering Morgan Stanley's real-time risk monitoring capabilities.
-* Integrated SRE capabilities into existing support tooling using Prometheus, Grafana, and Pagerduty
+* Integrated Prometheus, Grafana, and PagerDuty to improve our observability and achieve our SLA targets
 * Developed applications for the consumption of millions of different trading events per minute.
 * Built-out CQRS-style application using GraphQL and Kafka for exposing Risk calculation results.
+* Developed new features on existing Angular based web application
 * Deep Exposure to trade concepts within a risk technology context.
 #### Software Engineer | Hymans Robertson | March 2020 - October 2021
 * Assisted actuaries and quantitative analysts in the development and testing of models used for investment risk modelling and pension liabilities forecasting.
