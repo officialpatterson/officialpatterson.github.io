@@ -12,6 +12,7 @@ permalink: /Resume/
 * Built-out CQRS-style application using GraphQL and Kafka for exposing Risk calculation results.
 * Developed new features on existing Angular based web application
 * Deep Exposure to trade concepts within a risk technology context.
+  
 #### Software Engineer | Hymans Robertson | March 2020 - October 2021
 * Assisted actuaries and quantitative analysts in the development and testing of models used for investment risk modelling and pension liabilities forecasting.
 * Contibruted to continous improvement of product delivery using Lean techniques.
