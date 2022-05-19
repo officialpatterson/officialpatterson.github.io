@@ -4,7 +4,14 @@ title: Resume
 permalink: /Resume/
 ---
 ### Work Experience
-#### Software Engineer | Hymans Robertson | March 2020 - present
+
+#### Technology Associate | Morgan Stanley | October 2021 - present
+* Single product team delivering Morgan Stanley's real-time risk monitoring capabilities.
+* Integrated SRE capabilities into existing support tooling using Prometheus, Grafana, and Pagerduty
+* Developed applications for the consumption of millions of different trading events per minute.
+* Built-out CQRS-style application using GraphQL and Kafka for exposing Risk calculation results.
+* Deep Exposure to trade concepts within a risk technology context.
+#### Software Engineer | Hymans Robertson | March 2020 - October 2021
 * Assisted actuaries and quantitative analysts in the development and testing of models used for investment risk modelling and pension liabilities forecasting.
 * Contibruted to continous improvement of product delivery using Lean techniques.
 * Developed an automated process for portfolio optimisation using Azure's batch processing platform.
