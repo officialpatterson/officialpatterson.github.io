@@ -6,25 +6,25 @@ permalink: /Resume/
 ### Work Experience
 
 #### Technology Associate | Morgan Stanley | October 2021 - present
-* Single product team delivering Morgan Stanley's real-time risk monitoring capabilities.
-* Integrated Prometheus, Grafana, and PagerDuty to improve our observability and achieve our SLA targets
-* Developed Java applications for the consumption of millions of different trading events per minute.
-* Built-out CQRS-style application using GraphQL and Kafka for exposing Risk calculation results.
-* Developed new features on existing Angular based web application
-* Deep Exposure to trade concepts within a risk technology context.
+* Software Engineer developing a realtime counterparty risk monitoring system to primarily support the prime brokerage business.
+* Developed and tested low-latency Java services that processed millions of heterogenous trade events per day.
+* Active across full stack of development from having a leading role in the adoption and rollout of Kafka to using GraphQL and Angular for UI and API development.
+* Improved system resilience and SRE capabilites by improving adoption of tooling such as Prometheus and Grafana and adapting where necessary.
+* Improved CICD workflow by expaanding adoption of different devops tools and strategies such as Jenkins pipelines, Infrastructure as code, and blue-green deployment.
+* As collateral, I have further expanded my knowledge and understanding of Investment Banking and the Prime Brokerage business, especially within the bounds of a risk exposure context.
   
 #### Software Engineer | Hymans Robertson | March 2020 - October 2021
-* Assisted actuaries and quantitative analysts in the development and testing of models used for investment risk modelling and pension liabilities forecasting.
-* Contibruted to continous improvement of product delivery using Lean techniques.
+* Assisted actuaries and quantitative analysts in the development and testing of R based models used for investment risk modelling and pension liabilities forecasting.
+* Contributed to continuous improvement of product delivery using agile and lean methodologies.
 * Developed an automated process for portfolio optimisation using Azure's batch processing platform.
 * Maintained several Azure-based API's for exposing financial models to clients.
-* led the development and integration of a bespoke code repository platform for sharing R packages and designed continous integration/continous deployment pipeline for doing so.
+* Led the development and integration of a bespoke code repository platform for sharing R packages and designed continuous integration/continuous deployment pipeline for doing so.
 * Organised and led engineering discussions for multiple projects remotely.
 
 #### Machine Learning Research Associate | University of Strathclyde | November 2019 - May 2020
 * Continuation of my own postgraduate research but in a professional capacity.
 * Remit was to further explore novel ML architectures as an effective solution to the 30-day hospital readmission problem.
-* Developed robust and extensible framework for developing and evaluating trasformer architectures at scale using high-performance compute (HPC) instances.
+* Developed robust and extensible framework for developing and evaluating transformer architectures at scale using high-performance compute (HPC) instances.
 * When presented at HealTac2020, approach scored above the previous state of the art.
 
 #### Java Software Engineer | Ocado Technology | September 2019 - March 2020
@@ -36,9 +36,9 @@ permalink: /Resume/
 * Engaged in project management across the full agile scrum development cycle including sprint planning and retrospectives.
 * Practical experience using Cassandra, Elastic search, and Kibana for event logging. 
 
-#### OO Software Engineering Tutor | University of Glasgow | September 2015 - March 2016
-* Led classroom sessions for teaching Object-oriented software development in Java to 30 students twice a week for two semesters.
-* Managed the incremental project-based assessments for each student including marking and grading totaling 50% of their course grade.
+#### Software Engineering Tutor | University of Glasgow | September 2015 - March 2016
+* Led classroom sessions for teaching object-oriented software development in Java to 30 students twice a week for two semesters.
+* Managed the incremental project-based assessments for each student including marking and grading, totaling 50% of their course grade.
 
 ### Education
 #### MSc Advanced Computing Science | Distinction | University of Strathclyde | 2019
