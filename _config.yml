@@ -21,7 +21,7 @@
 title: Andy Patterson
 email: andrewrpatterson@btinternet.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer based in Glasgow, UK. My current interests are in applying SWE methods to data analytics for 
+  Software engineer based in Glasgow, UK working in finance . My current interests are in applying software engineering methods to data analytics for 
   more reliable and extendable analyses.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
