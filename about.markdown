@@ -3,12 +3,18 @@ layout: page
 title: Resume
 permalink: /Resume/
 ---
+### Andrew Patterson
+
+Software Engineer with proven experience in the application of software engineering principles and methodologies to large, distributed, and sometimes complex, systems in investment banking and control systems. Additionally, I have past research experience in state of the art neural architectures and other machine learning paradigms. I believe integrity, ethics, and adherence to principle is key to high-quality work.
+
+My contact email address is andrewrpatterson@btinternet.com and my contact phone number is 07986791843. I am able to relocate where necessary.
+
 ### Work Experience
 
 #### Technology Associate | Morgan Stanley | October 2021 - present
-* Software Engineer developing a realtime counterparty risk monitoring system to primarily support the prime brokerage business.
+* Software Engineer developing a realtime risk monitoring system to primarily support the prime brokerage business.
 * Developed and tested low-latency Java services that processed millions of heterogenous trade events per day.
-* Active across full stack of development from having a leading role in the adoption and rollout of Kafka to using GraphQL and Angular for UI and API development.
+* Implemented probabilitic model based testing approach using Apache Kafka for identifying and measuring regressions between systems.
 * Improved system resilience and SRE capabilites by improving adoption of tooling such as Prometheus and Grafana and adapting where necessary.
 * Improved CICD workflow by expaanding adoption of different devops tools and strategies such as Jenkins pipelines, Infrastructure as code, and blue-green deployment.
 * As collateral, I have further expanded my knowledge and understanding of Investment Banking and the Prime Brokerage business, especially within the bounds of a risk exposure context.
