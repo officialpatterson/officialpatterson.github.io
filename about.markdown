@@ -5,18 +5,19 @@ permalink: /Resume/
 ---
 ### Andrew Patterson
 
-Software Engineer with proven experience in the application of software engineering principles and methodologies to large, distributed, and sometimes complex, systems in investment banking and control systems. Additionally, I have past research experience in state of the art neural architectures and other machine learning paradigms. I believe integrity, ethics, and adherence to principle is key to high-quality work.
+Software Engineer with proven experience in the application of software engineering principles and methodologies to large, distributed, and sometimes complex, systems in investment banking and control systems. Additionally, I have past research experience in state of the art neural architectures and other machine learning paradigms such as BERT. I believe integrity, ethics, and adherence to principle is key to high-quality work.
 
 My contact email address is andrewrpatterson@btinternet.com and my contact phone number is 07986791843. I am able to relocate where necessary.
 
 ### Work Experience
 
-#### Technology Associate | Morgan Stanley | October 2021 - present
-* Software Engineer developing a realtime risk monitoring system to primarily support the prime brokerage business.
+#### Software Engineer | Morgan Stanley | October 2021 - present
+* Software Engineer developing a realtime client portfolio risk and margining system to primarily support the prime brokerage business.
 * Developed and tested low-latency Java services that processed millions of heterogenous trade events per day.
-* Implemented probabilitic model based testing approach using Apache Kafka for identifying and measuring regressions between systems.
+* Designed and implemented a  novel probabilitic model based testing approach using Apache Kafka for identifying and measuring regressions between systems.
+* Developed new scalable and resilient GraphQL APIs as part of full system stack development.
 * Improved system resilience and SRE capabilites by improving adoption of tooling such as Prometheus and Grafana and adapting where necessary.
-* Improved CICD workflow by expaanding adoption of different devops tools and strategies such as Jenkins pipelines, Infrastructure as code, and blue-green deployment.
+* Improved CICD workflow by expanding adoption of different devops tools and strategies such as Jenkins pipelines, Infrastructure as code, and blue-green deployment.
 * As collateral, I have further expanded my knowledge and understanding of Investment Banking and the Prime Brokerage business, especially within the bounds of a risk exposure context.
   
 #### Software Engineer | Hymans Robertson | March 2020 - October 2021
@@ -49,7 +50,7 @@ My contact email address is andrewrpatterson@btinternet.com and my contact phone
 ### Education
 #### MSc Advanced Computing Science | Distinction | University of Strathclyde | 2019
 * Studied a variety of subjects including machine learning for software development and machine learning in finance.
-* Developed novel approach to predicting hospital readmission from clinical text as part of my postgraduate thesis.
+* Developed novel approach to predicting hospital readmission from clinical text with BERT, a large pre-trained langauge model, as part of my postgraduate thesis.
 * Gained work experience in a health analytics startup and collaborated with NHS health informatics researchers in diabetes for my postgraduate research thesis.
 
 #### BSc(Hons) Computing  | Second class | University of Glasgow | 2016
